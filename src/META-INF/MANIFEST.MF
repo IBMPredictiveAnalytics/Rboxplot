@@ -1,0 +1,14 @@
+Name: Rboxplot
+Dialog-Specs: Rboxplot.spd
+Summary: Generate boxplots using R graphics.
+Description: This procedure allows you to create boxplots from R with 
+ a variety of options. You can classify by one or more categorical var
+ iables, add notches, make the box widths proportional to the case cou
+ nt, scale the box widths, and choose box colors.
+Author: IBM SPSS
+Version: 1.3.4
+Product-Version: 18
+Date: 1/2/2014
+Categories: R
+Plugins: R
+Translation-Catalogues: lang
