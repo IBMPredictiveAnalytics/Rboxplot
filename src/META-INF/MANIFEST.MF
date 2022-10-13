@@ -1,4 +1,5 @@
 Name: Rboxplot
+Display-Name: R Graphics Box Plots
 Dialog-Specs: Rboxplot.spd
 Summary: Generate boxplots using R graphics.
 Description: This procedure allows you to create boxplots from R with 
@@ -12,3 +13,4 @@ Date: 1/2/2014
 Categories: R
 Plugins: R
 Translation-Catalogues: lang
+Product-Version-Maximum: 99
